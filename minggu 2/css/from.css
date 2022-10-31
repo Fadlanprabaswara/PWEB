@@ -1,0 +1,32 @@
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+/* Bagian form */
+body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    background-image: radial-gradient(circle at -3.45% 94.85%, #ff69af 0, #ff5eba 8.33%, #ff54c6 16.67%, #ff4bd1 25%, #ff43dc 33.33%, #ff3ee7 41.67%, #f23cf2 50%, #d73efc 58.33%, #b744ff 66.67%, #8f4cff 75%, #5354ff 83.33%, #005cff 91.67%, #0062ff 100%);
+}
+
+.Custom-info{
+    max-width: 500px;
+    width: 400px;
+    background: white;
+    padding: 20px 30px;
+    border-radius: 9px;
+
+}
+
+table tr{
+    font-size: 18px;
+}
+
+

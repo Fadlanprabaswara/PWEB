@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+/*bagian Tabel */
+table {
+    border-collapse: collapse;
+    width: 80%;
+}
+
+.table tr th {
+    background: #251B37;
+    font-style: normal;
+    color: white;
+}
+
+.table tr td {
+    background:#372948;
+    color: aliceblue;
+}
+
+/*akhir bagian tabel */
+
+
+/*bagian buton */
+button {
+    border: none;
+    position: relative;
+    background: yellowgreen;
+    border-radius: 30px;
+    padding: 10px;
+    width: 180px;
+    top: 40%;
+    left: 40%;
+    cursor: pointer;
+}
+
+.button1{
+    background-color: blue;
+}
